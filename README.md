@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Data Analytics.
 - 🌱 I’m currently learning Data Analytics and Web Development.
 - 💞️ I’m looking to collaborate on web development projects, data analysis, and open-source contributions and others project.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prashant-kumar-0b1679227) | [GitHub](https://github.com/prashantkumar7541) | [Unstop](https://unstop.com/kumarprashant)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prashant-kumar-0b1679227) | [GitHub](https://github.com/prashantkumar7541) | [Unstop](https://unstop.com/u/kumarprashant)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and building creative solutions!
 
